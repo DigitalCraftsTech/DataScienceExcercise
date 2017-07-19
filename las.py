@@ -1,0 +1,1 @@
+def DisplayMulti(ArgCount = 0, *VarArgs):
